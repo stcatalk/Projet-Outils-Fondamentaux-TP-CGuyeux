@@ -4,6 +4,7 @@ Il utilise pour ce faire l'angle entre le stronghold et le joueur, connu grâce 
 
 ## Requis
 python 3
+
 matplotlib
 
 ## Utilisation
