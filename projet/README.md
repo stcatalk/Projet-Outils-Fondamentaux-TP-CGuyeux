@@ -9,7 +9,7 @@ matplotlib
 
 ## Utilisation
 1. Éxecuter le programme
-> python calculStronghold.py
+        python calculStronghold.py
 
 2. Entrer le nombre de lancers
 
